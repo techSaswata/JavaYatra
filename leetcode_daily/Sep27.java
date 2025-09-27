@@ -1,7 +1,7 @@
 package leetcode_daily;
 
 import java.util.*;
-class Sep28 {
+class Sep27 {
     public double largestTriangleArea(int[][] points) {
         int n = points.length;
         double max = 0;

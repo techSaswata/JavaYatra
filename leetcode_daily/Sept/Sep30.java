@@ -1,4 +1,4 @@
-package leetcode_daily;
+package leetcode_daily.Sept;
 //lc 2221
 class Solution {
     public int triangularSum(int[] nums) {

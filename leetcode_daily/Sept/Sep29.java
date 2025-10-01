@@ -1,4 +1,4 @@
-package leetcode_daily;
+package leetcode_daily.Sept;
 //lc 1039
 class Solution {
     public int minScoreTriangulation(int[] values) {

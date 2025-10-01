@@ -1,4 +1,4 @@
-package leetcode_daily;
+package leetcode_daily.Sept;
 //lc 812
 import java.util.*;
 class Sep27 {

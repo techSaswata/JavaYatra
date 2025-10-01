@@ -1,4 +1,4 @@
-package leetcode_daily;
+package leetcode_daily.Sept;
 //lc 976
 import java.util.*;
 
